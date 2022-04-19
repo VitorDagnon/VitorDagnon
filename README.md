@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ola! Sou o Vitor Dagnon
 
 - 🖥️ Atualmente estou cursando Sistemas de Informação
 - 📚 Praticando HTML | CSS | JavaScript
@@ -7,6 +7,6 @@
 
 <div align="center">
   <a href="https://github.com/VitorDagnon">
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorDagnon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDagnon&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" height="200em" src="https://github-readme-stats.vercel.app/api?username=VitorDagnon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDagnon&layout=compact&langs_count=7&theme=dracula"/>
 </div>
