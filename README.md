@@ -1,6 +1,9 @@
+
 ### Ola! Sou o Vitor Dagnon
 
-- 🖥️ Atualmente estou cursando Sistemas de Informação
+  <img alt="Vitor-gif" height="110" style="border-radius:10px;" src="https://c.tenor.com/JWJRjZFUa_cAAAAC/one-piece-anime.gif">
+  
+- 🖥️ Atualmente estou cursando Sistemas de Informação 
 - 📚 Praticando HTML | CSS | JavaScript
 - 📫 Contato: vitor.mestrorocco@gmail.com
 - 😄 Pronomes: Ele/Dele
